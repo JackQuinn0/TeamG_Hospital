@@ -8,7 +8,6 @@ The Hospital Management System (HMS) is a Java-based application designed to str
  Key Features
 
  Patient Management
-	•	Register as a new patient.
 	•	Book, view, and cancel appointments.
 	•	View medical history (past appointments and prescriptions).
 
@@ -18,9 +17,8 @@ The Hospital Management System (HMS) is a Java-based application designed to str
 	•	Manage availability and cancel appointments if necessary.
 
  Admin Panel
+ 	•	Register a new patient.
 	•	Manage patient and doctor records.
-	•	Assign doctors to shifts.
-	•	Generate reports on hospital performance.
 	•	Handle user authentication and security.
 
  System Features
